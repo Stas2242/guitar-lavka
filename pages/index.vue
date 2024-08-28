@@ -1,3 +1,10 @@
+<script setup>
+
+import Header from '~/layouts/Header.vue';
+
+</script>
+
 <template>
-    <div class="text-[#2A254B] text-lg bg-red-400">hello world</div>
+    <Header/>
+    
 </template>
